@@ -109,6 +109,13 @@ landscape:
             twitter: https://twitter.com/CoulerProject
             crunchbase: https://www.crunchbase.com/organization/ant-financial
           - item:
+            name: Hera
+            homepage_url: https://github.com/argoproj-labs/hera-workflows
+            repo_url: https://github.com/argoproj-labs/hera-workflows
+            logo:
+            twitter:
+            crunchbase: https://www.crunchbase.com/organization/dyno-therapeutics
+          - item:
             name: DevStream
             homepage_url: https://www.devstream.io/
             project: sandbox
